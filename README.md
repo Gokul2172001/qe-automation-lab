@@ -41,7 +41,7 @@ See [docs/architecture.md](docs/architecture.md). The diagram grows as services 
 | Orchestration | n8n |
 | CI | Jenkins |
 | UI tests | Playwright |
-| API tests | Newman / Pytest |
+| API tests | UI Tests | Playwright |
 | Database | PostgreSQL (+ pgvector) |
 | Dashboards | Grafana |
 | AI | Ollama (local LLMs) |
@@ -79,6 +79,7 @@ Setup instructions will be added in v0.1.
 - [Changelog](CHANGELOG.md)
 - [Learning log](docs/learning-log.md)
 - [Parking lot](docs/parking-lot.md)
+- [Docker and Git cheat sheet](docs/cheatsheets/docker-git-cheatsheet.pdf)
 
 ## License
 
