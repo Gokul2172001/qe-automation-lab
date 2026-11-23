@@ -80,6 +80,7 @@ Setup instructions will be added in v0.1.
 - [Learning log](docs/learning-log.md)
 - [Parking lot](docs/parking-lot.md)
 - [Docker and Git cheat sheet](docs/cheatsheets/docker-git-cheatsheet.pdf)
+
 ## License
 
 MIT
